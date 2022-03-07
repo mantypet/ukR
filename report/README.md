@@ -1,0 +1,1 @@
+This directory includes codes for creating reports, such as *.Rmd files.
