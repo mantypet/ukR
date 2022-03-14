@@ -6,6 +6,8 @@ suppressPackageStartupMessages({
   library(httpuv)
   library(base64enc)
   library(twitteR)
+  library(knitr)
+  library(kableExtra)
 })
 
 #' Negate `%in%`
