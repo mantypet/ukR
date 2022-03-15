@@ -4,8 +4,6 @@
 source(here::here("R/global.R"))
 source(here::here("process/transformations.R"))
 
-
-
 # Read and transform RU vehicle losses from Oryx website
 url <- "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html"
 oryx <- xml2::read_html(url)
