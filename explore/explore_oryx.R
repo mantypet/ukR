@@ -76,3 +76,8 @@ ru.rep.long %>%
   kable %>%
   kable_styling()
 
+# Test loading previous
+file_prev <- here::here(paste0("data/oryx_ru_losses_",Sys.Date()-1,".csv"))
+ru.rep.long.prev <- read.csv(file = file_prev, stringsAsFactors = FALSE, row.names = 1)
+
+
