@@ -1,11 +1,10 @@
+# Load common packages & common functionalities for the entire project
 
 # R packages used by the project
 suppressPackageStartupMessages({
   library(tidyverse)
-  library(openssl)
-  library(httpuv)
-  library(base64enc)
-  library(twitteR)
+  library(rvest)
+  library(xml2)
   library(knitr)
   library(kableExtra)
 })
