@@ -1,0 +1,147 @@
+"","type","name","n","reportdate"
+"1","Tanks ","T-64BV",4,2022-03-16
+"2","Tanks ","T-72A",7,2022-03-16
+"3","Tanks ","T-72AV",3,2022-03-16
+"4","Tanks ","T-72B",35,2022-03-16
+"5","Tanks ","T-72B Obr. 1989",5,2022-03-16
+"6","Tanks ","T-72B3",15,2022-03-16
+"7","Tanks ","T-72B3 Obr. 2016",58,2022-03-16
+"8","Tanks ","T-80BV",8,2022-03-16
+"9","Tanks ","T-80U",43,2022-03-16
+"10","Tanks ","T-80UK",1,2022-03-16
+"11","Tanks ","T-80BVM",15,2022-03-16
+"12","Tanks ","T-90A",16,2022-03-16
+"13","Tanks ","Unknown tank",19,2022-03-16
+"14","Armoured Fighting Vehicles ","BRM-1K",3,2022-03-16
+"15","Armoured Fighting Vehicles ","BMP-1Khs",1,2022-03-16
+"16","Armoured Fighting Vehicles ","MT-LB",75,2022-03-16
+"17","Armoured Fighting Vehicles ","MT-LB with ZU-23 AA gun",2,2022-03-16
+"18","Armoured Fighting Vehicles ","MT-LBM 6MB",1,2022-03-16
+"19","Armoured Fighting Vehicles ","MT-LB Ambulance",1,2022-03-16
+"20","Armoured Fighting Vehicles ","MT-LBu",9,2022-03-16
+"21","Armoured Fighting Vehicles ","1V13 battery fire control center",2,2022-03-16
+"22","Armoured Fighting Vehicles ","Vityaz DT-30 articulated tracked carrier",2,2022-03-16
+"23","Armoured Fighting Vehicles ","2S1 with ZU-23 AA gun",1,2022-03-16
+"24","Armoured Fighting Vehicles ","9P149 Shturm-S ATGM carrier",3,2022-03-16
+"25","Armoured Fighting Vehicles ","BMD-1KSh-A command vehicle",1,2022-03-16
+"26","Armoured Fighting Vehicles ","R-149MA1 unified command and staff vehicle",8,2022-03-16
+"27","Armoured Fighting Vehicles ","R-149MA3 command and staff vehicle",2,2022-03-16
+"28","Armoured Fighting Vehicles ","1V119 artillery battalion fire direction vehicle",3,2022-03-16
+"29","Armoured Fighting Vehicles ","TZM-T reloader vehicle",2,2022-03-16
+"30","Armoured Fighting Vehicles ","Unknown BTR-D/BMD-2",9,2022-03-16
+"31","Armoured Fighting Vehicles ","Unknown AFV",14,2022-03-16
+"32","Infantry Fighting Vehicles ","BMP-1",16,2022-03-16
+"33","Infantry Fighting Vehicles ","BMP-2",70,2022-03-16
+"34","Infantry Fighting Vehicles ","BMP-2K",1,2022-03-16
+"35","Infantry Fighting Vehicles ","BMP-3",23,2022-03-16
+"36","Infantry Fighting Vehicles ","BMD-2",48,2022-03-16
+"37","Infantry Fighting Vehicles ","BMD-4M",12,2022-03-16
+"38","Infantry Fighting Vehicles ","BTR-82A",30,2022-03-16
+"39","Infantry Fighting Vehicles ","Unknown BMP-1/2",4,2022-03-16
+"40","Armoured Personnel Carriers ","BTR-80",37,2022-03-16
+"41","Armoured Personnel Carriers ","BTR-D",26,2022-03-16
+"42","Armoured Personnel Carriers ","BTR-MDM 'Rakushka'",5,2022-03-16
+"43","Mine-Resistant Ambush Protected  Vehicles ","KamAZ-63968 'Typhoon'",6,2022-03-16
+"44","Mine-Resistant Ambush Protected  Vehicles ","K-53949 Typhoon-K",4,2022-03-16
+"45","Mine-Resistant Ambush Protected  Vehicles ","K-53949 'Linza'",1,2022-03-16
+"46","Infantry Mobility Vehicles ","GAZ Tigr-M",33,2022-03-16
+"47","Infantry Mobility Vehicles ","Iveco LMV 'Rys'",7,2022-03-16
+"48","Communications Stations ","MP-2IM signals vehicle",1,2022-03-16
+"49","Communications Stations ","Barnaul-T 9<U+0421>932-1 automated system for air defence units",3,2022-03-16
+"50","Communications Stations ","R-166-0.5 signals vehicle",2,2022-03-16
+"51","Communications Stations ","R-419L1 communications station",1,2022-03-16
+"52","Communications Stations ","Unknown communications station based on the KamAZ 6x6",1,2022-03-16
+"53","Communications Stations ","Unknown communications station",1,2022-03-16
+"54","Engineering Vehicles ","BTR-D APC with UR-67 mine clearing charge",1,2022-03-16
+"55","Engineering Vehicles ","UR-77 'Meterorit'  mine clearing vehicle",5,2022-03-16
+"56","Engineering Vehicles ","GMZ-3 minelayer",1,2022-03-16
+"57","Engineering Vehicles ","BAT-2 heavy engineering vehicle",1,2022-03-16
+"58","Engineering Vehicles ","BREM-1 armoured recovery vehicle",1,2022-03-16
+"59","Engineering Vehicles ","BREM-K armoured recovery vehicle",2,2022-03-16
+"60","Engineering Vehicles ","BREM-Ch ''BREM-4'' armoured recovery vehicle",1,2022-03-16
+"61","Engineering Vehicles ","REM-KL armoured recovery vehicle",1,2022-03-16
+"62","Engineering Vehicles ","IMR-2 combat engineering vehicle",3,2022-03-16
+"63","Engineering Vehicles ","TMM-3 bridge layer",10,2022-03-16
+"64","Engineering Vehicles ","MTU-72 bridge layer",1,2022-03-16
+"65","Engineering Vehicles ","PMP floating bridge",4,2022-03-16
+"66","Engineering Vehicles ","PTS-3  tracked amphibious transport",2,2022-03-16
+"67","Engineering Vehicles ","KamAZ-5350 with EOV-3523 excavator",5,2022-03-16
+"68","Engineering Vehicles ","KamAZ-5350 with KS-45719-7M crane",1,2022-03-16
+"69","Engineering Vehicles ","KamAZ-5350 with crane",1,2022-03-16
+"70","Engineering Vehicles ","Ural-4320 Wrecker",1,2022-03-16
+"71","Anti-Tank Guided Missiles ","9M111 Fagot",6,2022-03-16
+"72","Anti-Tank Guided Missiles ","9M113 Konkurs",28,2022-03-16
+"73","Anti-Tank Guided Missiles ","9M113M Konkurs-M",1,2022-03-16
+"74","Anti-Tank Guided Missiles ","9<U+041C>131 Metis-M",1,2022-03-16
+"75","Anti-Tank Guided Missiles ","9<U+041C>131F Metis-M1",1,2022-03-16
+"76","Anti-Tank Guided Missiles ","9M114 Kokon",24,2022-03-16
+"77","Man-Portable Air Defence Systems ","9K38 Igla",21,2022-03-16
+"78","Man-Portable Air Defence Systems ","9K333 Verba",3,2022-03-16
+"79","Heavy Mortars ","120mm 2B11/2S12",4,2022-03-16
+"80","Heavy Mortars ","120mm 2B11/2S12A",1,2022-03-16
+"81","Towed Artillery ","120mm 2B16 Nona-K howitzer",2,2022-03-16
+"82","Towed Artillery ","122mm D-30 howitzer 2A18",23,2022-03-16
+"83","Towed Artillery ","152mm 2A65 Msta-B howitzer",6,2022-03-16
+"84","Self-Propelled Artillery ","120mm 2S9 Nona",5,2022-03-16
+"85","Self-Propelled Artillery ","120mm 2S34 Khosta",1,2022-03-16
+"86","Self-Propelled Artillery ","122mm 2S1 Gvozdika",3,2022-03-16
+"87","Self-Propelled Artillery ","152mm 2S3 Akatsiya",6,2022-03-16
+"88","Self-Propelled Artillery ","152mm 2S19 Msta-S",16,2022-03-16
+"89","Multiple Rocket Launchers ","122mm BM-21 'Grad'",21,2022-03-16
+"90","Multiple Rocket Launchers ","220mm BM-27 'Uragan'",2,2022-03-16
+"91","Multiple Rocket Launchers ","122mm 2B17 Tornado-G",1,2022-03-16
+"92","Multiple Rocket Launchers ","220mm TOS-1A",1,2022-03-16
+"93","Anti-Aircraft Guns ","23mm ZU-23",2,2022-03-16
+"94","Self-Propelled Anti-Aircraft Guns ","BTR-ZD 'Skrezhet'",1,2022-03-16
+"95","Self-Propelled Anti-Aircraft Guns ","2K22M1 Tunguska",8,2022-03-16
+"96","Surface-To-Air Missile Systems  ","9K33 Osa",6,2022-03-16
+"97","Surface-To-Air Missile Systems  ","9K35 Strela-10",4,2022-03-16
+"98","Surface-To-Air Missile Systems  ","9A310M1 TELAR",3,2022-03-16
+"99","Surface-To-Air Missile Systems  ","9A39M1 TEL",1,2022-03-16
+"100","Surface-To-Air Missile Systems  ","9A310M2 TELAR",3,2022-03-16
+"101","Surface-To-Air Missile Systems  ","9A39M2 TEL",1,2022-03-16
+"102","Surface-To-Air Missile Systems  ","9A330 Tor TLAR",4,2022-03-16
+"103","Surface-To-Air Missile Systems  ","9A331 TLAR",3,2022-03-16
+"104","Surface-To-Air Missile Systems  ","9A331M TLAR",2,2022-03-16
+"105","Surface-To-Air Missile Systems  ","Pantsir-S1",5,2022-03-16
+"106","Radars  ","9S18<U+041C>1",1,2022-03-16
+"107","Jammers And Deception Systems  ","R-330BMV Borisoglebsk-2B",2,2022-03-16
+"108","Aircraft ","Su-25 close air support aircraft",6,2022-03-16
+"109","Aircraft ","Su-30SM multirole aircraft",2,2022-03-16
+"110","Aircraft ","Su-34 strike aircraft",4,2022-03-16
+"111","Aircraft ","An-26 transport aircraft",1,2022-03-16
+"112","Unmanned Aerial Vehicles ","Forpost reconnaissance UAV",1,2022-03-16
+"113","Unmanned Aerial Vehicles ","Orlan-10 reconnaissance UAV",2,2022-03-16
+"114","Unmanned Aerial Vehicles ","Eleron-3 reconnaissance UAV",2,2022-03-16
+"115","Unmanned Aerial Vehicles ","ZALA Aero KUB-BLA loitering munition",2,2022-03-16
+"116","Unmanned Aerial Vehicles ","E95M target drone",1,2022-03-16
+"117","Helicopters ","Mi-8 transport helicopter",3,2022-03-16
+"118","Helicopters ","Mi-24V/P attack helicopter",2,2022-03-16
+"119","Helicopters ","Mi-35M attack helicopter",2,2022-03-16
+"120","Helicopters ","Unknown Mi-24/35 attack helicopter",3,2022-03-16
+"121","Helicopters ","Mi-28 attack helicopter",1,2022-03-16
+"122","Helicopters ","Ka-52 'Alligator' attack helicopter",4,2022-03-16
+"123","Helicopters ","Unknown helicopter",15,2022-03-16
+"124","Logistics Trains ","Fuel train",2,2022-03-16
+"125","Trucks, Vehicles and Jeeps ","GAZ-66",7,2022-03-16
+"126","Trucks, Vehicles and Jeeps ","ZiL-131",4,2022-03-16
+"127","Trucks, Vehicles and Jeeps ","9T452 transporter-loader",1,2022-03-16
+"128","Trucks, Vehicles and Jeeps ","9T217 transloader",2,2022-03-16
+"129","Trucks, Vehicles and Jeeps ","GAZ-3308",2,2022-03-16
+"130","Trucks, Vehicles and Jeeps ","GAZ Sobol",2,2022-03-16
+"131","Trucks, Vehicles and Jeeps ","Ural-4320",123,2022-03-16
+"132","Trucks, Vehicles and Jeeps ","Ural-43206",21,2022-03-16
+"133","Trucks, Vehicles and Jeeps ","Ural Federal",4,2022-03-16
+"134","Trucks, Vehicles and Jeeps ","Ural-63704-0010 Tornado-U",1,2022-03-16
+"135","Trucks, Vehicles and Jeeps ","Ural-542301 tank transporter",1,2022-03-16
+"136","Trucks, Vehicles and Jeeps ","KamAZ 4x4",2,2022-03-16
+"137","Trucks, Vehicles and Jeeps ","KamAZ 6x6",162,2022-03-16
+"138","Trucks, Vehicles and Jeeps ","KamAZ Avtozaks",4,2022-03-16
+"139","Trucks, Vehicles and Jeeps ","KamAZ with armoured cabin",3,2022-03-16
+"140","Trucks, Vehicles and Jeeps ","KamAZ-6350 8x8 artillery tractor",4,2022-03-16
+"141","Trucks, Vehicles and Jeeps ","UAZ-469",2,2022-03-16
+"142","Trucks, Vehicles and Jeeps ","UAZ Patriot",1,2022-03-16
+"143","Trucks, Vehicles and Jeeps ","UAZ-23632",2,2022-03-16
+"144","Trucks, Vehicles and Jeeps ","Armoured SUV",1,2022-03-16
+"145","Trucks, Vehicles and Jeeps ","Unknown truck",45,2022-03-16
+"146","Trucks, Vehicles and Jeeps "," vehicle",21,2022-03-16
