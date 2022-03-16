@@ -3,6 +3,7 @@
 
 source(here::here("R/global.R"))
 source(here::here("process/transformations.R"))
+source(here::here("process/reporting_functions.R"))
 
 # Read and transform RU vehicle losses from Oryx website
 url <- "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html"
@@ -30,6 +31,7 @@ ru.rep.long %>%
 # Test totals
 ru.rep.long %>%
   summarise(sum = sum(n))
+ru_header
 
 # Test tabulation
 ru.rep.long %>%
@@ -39,7 +41,7 @@ ru.rep.long %>%
   kable_styling()
 
 # Test loading previous dataset
-file_prev <- here::here(paste0("data/oryx_ru_losses_",Sys.Date()-1,".csv"))
-ru.rep.long.prev <- read.csv(file = file_prev, stringsAsFactors = FALSE, row.names = 1)
+reporting_start <- as.Date("2022-03-14")
+report_dates <- seq.Date(reporting_start, Sys.Date(), "day")
 
-
+ru_losses <- map_dfr(report_dates, read_report)
